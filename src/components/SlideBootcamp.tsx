@@ -197,7 +197,6 @@ export default function SlideBootcamp() {
               <span className="bg-orange-100 text-orange-800 text-[10px] uppercase font-mono px-1.5 py-0.5 border border-orange-200 font-bold">Postman</span>
               <span className="bg-emerald-100 text-emerald-800 text-[10px] uppercase font-mono px-1.5 py-0.5 border border-emerald-200 font-bold">Selenium</span>
               <span className="bg-violet-100 text-violet-800 text-[10px] uppercase font-mono px-1.5 py-0.5 border border-violet-200 font-bold">Appium</span>
-              <span className="bg-blue-100 text-blue-800 text-[10px] uppercase font-mono px-1.5 py-0.5 border border-blue-200 font-bold">Jira</span>
               <span className="bg-neutral-800 text-neutral-100 text-[10px] uppercase font-mono px-1.5 py-0.5 border border-neutral-700 font-bold">Git / GitHub</span>
             </div>
             

@@ -28,7 +28,6 @@ export default function SlideSkills() {
       { name: "Postman", level: "Advanced Tooling", desc: "Postman API client runner, scripting Javascript tests, mock servers dan parameter environment." },
       { name: "Selenium", level: "Automation Core", desc: "Selenium WebDriver Python untuk Web automation dengan Page Object Model (POM) yang tangguh." },
       { name: "Appium", level: "Android Core", desc: "Mobile automation testing untuk app native (.apk) Android melalui platform driver Appium." },
-      { name: "Jira", level: "Productivity Tool", desc: "Manajemen backlog sprint Agile, pembuatan bug ticket, monitoring progress Kanban board." },
       { name: "Git / GitHub", level: "Version Control", desc: "Distributed version control, branching strategy dev-to-main, merging conflicts resolution." }
     ],
     programming: [
